@@ -10,4 +10,9 @@ public class TestLogin
     {
         System.out.println("Hello");
     }
+    @Test
+    public void testLoginBtn()
+    {
+        System.out.println("world");
+    }
 }
